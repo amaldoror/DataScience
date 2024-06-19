@@ -9,22 +9,16 @@ Projekt für das Modul DataScience bei Frau Marina Tropmann-Frick und Tobias Sch
 
 ## Installation
 
-<br>
-
 Clone from [github](https://github.com/amaldoror/DataScience):
 
 ```bash
 git clone https://github.com/amaldoror/DataScience.git
 ```
 
-<br>
-
 Create a new [virtual environment]() called 'datascience':
 ```bash
 virtualenv datascience
 ```
-
-<br>
 
 Install the necessary packages:
 ```python
@@ -35,14 +29,10 @@ pip install scikit-learn matplotlib plotly pandas seaborn
 
 Just open the Jupyter Notebooks and run the cells.
 
-<br>
-
 ## Authors
 
 - Jonas Hildebrandt
 - Adrian Morgenthal
-
-<br>
 
 ## License
 
