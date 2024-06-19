@@ -2,12 +2,14 @@
 
 Projekt für das Modul DataScience bei Frau Marina Tropmann-Frick und Tobias Schreier.
 
-- [Installation](@installation)
-- [Usage](@usage)
-- [Authors](@authors)
-- [License](@license)
+## **Table of Contents**
 
-## Installation
+- [Installation](#installation)
+- [Usage](#usage)
+- [Authors](#authors)
+- [License](#license)
+
+## **Installation**
 
 Clone from [github](https://github.com/amaldoror/DataScience):
 
@@ -25,15 +27,15 @@ Install the necessary packages:
 pip install scikit-learn matplotlib plotly pandas seaborn
 ```
 
-## Usage
+## **Usage**
 
 Just open the Jupyter Notebooks and run the cells.
 
-## Authors
+## **Authors**
 
 - Jonas Hildebrandt
 - Adrian Morgenthal
 
-## License
+## **License**
 
 [MIT](https://choosealicense.com/licenses/mit/)
